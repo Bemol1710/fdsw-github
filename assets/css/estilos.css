@@ -9,6 +9,9 @@ height: 200px;
 }
 /* Hero Section */
 
+header h1{
+  margin-top: 7px;
+}
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
