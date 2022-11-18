@@ -23,7 +23,7 @@ header h1{
 
 #Mis-trabajos .image-top {
   height: 400px;
-  background-repeat: no-repeat;
+  background-dark: background-dark;
   background-size: cover;
   background-position: center;
 }
